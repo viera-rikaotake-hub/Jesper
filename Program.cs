@@ -12,6 +12,7 @@ namespace Jesper
         enum Status { Trött, Utvilad, Andfådd, Död, Glad };
         static void Main(string[] args)
         {
+            string message = "Hello cool person";
             string namn = "Viera-Rika Otake";
             string betyg = "C";
             int ålder = 17;
