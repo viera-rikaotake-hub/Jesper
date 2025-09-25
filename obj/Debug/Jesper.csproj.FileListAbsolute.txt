@@ -1,0 +1,7 @@
+C:\Users\viera.konig\OneDrive - Academedia\Visual studio 2022\pågående projekt\Jesper\Jesper\bin\Debug\Jesper.exe.config
+C:\Users\viera.konig\OneDrive - Academedia\Visual studio 2022\pågående projekt\Jesper\Jesper\bin\Debug\Jesper.exe
+C:\Users\viera.konig\OneDrive - Academedia\Visual studio 2022\pågående projekt\Jesper\Jesper\bin\Debug\Jesper.pdb
+C:\Users\viera.konig\OneDrive - Academedia\Visual studio 2022\pågående projekt\Jesper\Jesper\obj\Debug\Jesper.csproj.AssemblyReference.cache
+C:\Users\viera.konig\OneDrive - Academedia\Visual studio 2022\pågående projekt\Jesper\Jesper\obj\Debug\Jesper.csproj.CoreCompileInputs.cache
+C:\Users\viera.konig\OneDrive - Academedia\Visual studio 2022\pågående projekt\Jesper\Jesper\obj\Debug\Jesper.exe
+C:\Users\viera.konig\OneDrive - Academedia\Visual studio 2022\pågående projekt\Jesper\Jesper\obj\Debug\Jesper.pdb
